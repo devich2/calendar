@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Devid\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Devid\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Calendar.632182871.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Devid\Desktop\calendar\calendar" t="IncludeFlat">
+      <e p="Calendar.BLL" t="IncludeRecursive">
+        <e p="Abstract" t="Include">
+          <e p="Converter" t="Include">
+            <e p="IConverterService.cs" t="Include" />
+          </e>
+          <e p="Task" t="Include">
+            <e p="ITaskService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BlDependencyInstaller.cs" t="Include" />
+        <e p="Calendar.BLL.csproj" t="IncludeRecursive" />
+        <e p="Impl" t="Include">
+          <e p="Converter" t="Include">
+            <e p="HttpStatusConverterService.cs" t="Include" />
+          </e>
+          <e p="ServiceDependencyInstaller.cs" t="Include" />
+          <e p="Task" t="Include">
+            <e p="TaskService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Mappers" t="Include">
+          <e p="TaskProfile.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Calendar.BLL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Calendar.Common" t="IncludeRecursive">
+        <e p="AsJsonFormatter.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Calendar.Common.csproj" t="IncludeRecursive" />
+        <e p="LoggerExtensions.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Calendar.Common.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Calendar.DAL" t="IncludeRecursive">
+        <e p="Abstract" t="Include">
+          <e p="IRepository" t="Include">
+            <e p="Base" t="Include">
+              <e p="IGenericRepository.cs" t="Include" />
+            </e>
+            <e p="ITaskRepository.cs" t="Include" />
+          </e>
+          <e p="IUnitOfWork.cs" t="Include" />
+          <e p="Transactions" t="Include">
+            <e p="ITransaction.cs" t="Include" />
+            <e p="ITransactionManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Calendar.DAL.csproj" t="IncludeRecursive" />
+        <e p="CalendarDbContext.cs" t="Include" />
+        <e p="DalDependencyInstaller.cs" t="Include" />
+        <e p="Impl" t="Include">
+          <e p="ImplRepository" t="Include">
+            <e p="Base" t="Include">
+              <e p="GenericKeyRepository.cs" t="Include" />
+            </e>
+            <e p="TaskRepository.cs" t="Include" />
+          </e>
+          <e p="Transactions" t="Include">
+            <e p="DbTransactionManager.cs" t="Include" />
+            <e p="DbTransactionWrapper.cs" t="Include" />
+          </e>
+          <e p="UnitOfWork.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Calendar.DAL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Calendar.Entities" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Calendar.Entities.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Calendar.Entities.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Tables" t="Include">
+          <e p="ToDoTask.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Calendar.Models" t="IncludeRecursive">
+        <e p="Attributes" t="Include">
+          <e p="HttpStatusAttribute.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Calendar.Models.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Calendar.Models.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Response" t="Include">
+          <e p="TaskAddResponse.cs" t="Include" />
+          <e p="TaskBaseResponse.cs" t="Include" />
+          <e p="TaskUpdateResponse.cs" t="Include" />
+        </e>
+        <e p="Result" t="Include">
+          <e p="DataResult.cs" t="Include" />
+          <e p="ExceptionResult.cs" t="Include" />
+          <e p="ResponseMessageType.cs" t="Include" />
+          <e p="ResponseStatusType.cs" t="Include" />
+          <e p="Result.cs" t="Include" />
+        </e>
+        <e p="SelectionModel.cs" t="Include" />
+        <e p="Task" t="Include">
+          <e p="TaskBaseModel.cs" t="Include" />
+          <e p="TaskBlModel.cs" t="Include" />
+          <e p="TaskGroupedModel.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Calendar.Seed" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Calendar.Seed.csproj" t="IncludeRecursive" />
+        <e p="DatabaseInitializer.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Calendar.Seed.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ToDoTaskEntitiesHolder.cs" t="Include" />
+      </e>
+      <e p="Calendar.sln" t="IncludeFlat" />
+      <e p="Calendar.Web" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Calendar.db" t="Include" />
+        <e p="Calendar.Web.csproj" t="IncludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="TaskController.cs" t="Include" />
+        </e>
+        <e p="Infrastructure" t="Include">
+          <e p="Extension" t="Include">
+            <e p="ModelStateValidationFilter.cs" t="Include" />
+            <e p="StatusCodeConvention.cs" t="Include" />
+            <e p="StatusCodesFilter.cs" t="Include" />
+          </e>
+          <e p="Middleware" t="Include">
+            <e p="ExceptionMiddleware.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20210311175527_Initial.cs" t="Include" />
+          <e p="20210311175527_Initial.Designer.cs" t="Include" />
+          <e p="CalendarDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Calendar.Web.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

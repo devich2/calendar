@@ -1,0 +1,12 @@
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Entities\bin\Debug\net5.0\Calendar.Entities.deps.json
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Entities\bin\Debug\net5.0\Calendar.Entities.dll
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Entities\bin\Debug\net5.0\ref\Calendar.Entities.dll
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Entities\bin\Debug\net5.0\Calendar.Entities.pdb
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Entities\obj\Debug\net5.0\Calendar.Entities.csprojAssemblyReference.cache
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Entities\obj\Debug\net5.0\Calendar.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Entities\obj\Debug\net5.0\Calendar.Entities.AssemblyInfoInputs.cache
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Entities\obj\Debug\net5.0\Calendar.Entities.AssemblyInfo.cs
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Entities\obj\Debug\net5.0\Calendar.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Entities\obj\Debug\net5.0\Calendar.Entities.dll
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Entities\obj\Debug\net5.0\ref\Calendar.Entities.dll
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Entities\obj\Debug\net5.0\Calendar.Entities.pdb
