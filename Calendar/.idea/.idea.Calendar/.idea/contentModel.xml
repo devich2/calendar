@@ -154,7 +154,20 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Calendar.db" t="Include" />
         <e p="Calendar.Web.csproj" t="IncludeRecursive" />
+        <e p="Calendar.Web.xml" t="Include" />
+        <e p="Client" t="Include">
+          <e p="Images" t="Include" />
+          <e p="Sass" t="Include">
+            <e p="home.scss" t="Include" />
+            <e p="site.scss" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="calendar.js" t="Include" />
+            <e p="main.js" t="Include" />
+          </e>
+        </e>
         <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
           <e p="TaskController.cs" t="Include" />
         </e>
         <e p="Infrastructure" t="Include">
@@ -166,24 +179,87 @@
           <e p="Middleware" t="Include">
             <e p="ExceptionMiddleware.cs" t="Include" />
           </e>
+          <e p="SwaggerConfig" t="Include">
+            <e p="HideDocsFilter.cs" t="Include" />
+          </e>
         </e>
         <e p="Migrations" t="Include">
           <e p="20210311175527_Initial.cs" t="Include" />
           <e p="20210311175527_Initial.Designer.cs" t="Include" />
           <e p="CalendarDbContextModelSnapshot.cs" t="Include" />
         </e>
+        <e p="node_modules\@babel\core" t="IncludeRecursive" />
+        <e p="node_modules\@types" t="IncludeRecursive">
+          <e p="eslint" t="IncludeRecursive" />
+          <e p="estree" t="IncludeRecursive" />
+          <e p="json-schema" t="IncludeRecursive" />
+        </e>
+        <e p="node_modules\acorn" t="IncludeRecursive" />
+        <e p="node_modules\ajv" t="IncludeRecursive" />
+        <e p="node_modules\ajv-keywords" t="IncludeRecursive" />
+        <e p="node_modules\babel-core" t="IncludeRecursive" />
+        <e p="node_modules\babel-loader" t="IncludeRecursive" />
+        <e p="node_modules\babel-polyfill" t="IncludeRecursive" />
+        <e p="node_modules\babel-preset-env" t="IncludeRecursive" />
+        <e p="node_modules\browserslist" t="IncludeRecursive" />
+        <e p="node_modules\chrome-trace-event" t="IncludeRecursive" />
+        <e p="node_modules\colorette" t="IncludeRecursive" />
+        <e p="node_modules\commander" t="IncludeRecursive" />
+        <e p="node_modules\css-loader" t="IncludeRecursive" />
+        <e p="node_modules\enhanced-resolve" t="IncludeRecursive" />
+        <e p="node_modules\es-module-lexer" t="IncludeRecursive" />
+        <e p="node_modules\escalade" t="IncludeRecursive" />
+        <e p="node_modules\extract-loader" t="IncludeRecursive" />
+        <e p="node_modules\fast-deep-equal" t="IncludeRecursive" />
+        <e p="node_modules\fast-json-stable-stringify" t="IncludeRecursive" />
+        <e p="node_modules\file-loader" t="IncludeRecursive" />
+        <e p="node_modules\json5" t="IncludeRecursive" />
+        <e p="node_modules\moment" t="IncludeRecursive" />
+        <e p="node_modules\node-sass" t="IncludeRecursive" />
+        <e p="node_modules\postcss-loader" t="IncludeRecursive" />
+        <e p="node_modules\rimraf" t="IncludeRecursive" />
+        <e p="node_modules\sass-loader" t="IncludeRecursive" />
+        <e p="node_modules\schema-utils" t="IncludeRecursive" />
+        <e p="node_modules\style-loader" t="IncludeRecursive" />
+        <e p="node_modules\tapable" t="IncludeRecursive" />
+        <e p="node_modules\terser" t="IncludeRecursive" />
+        <e p="node_modules\tslib" t="IncludeRecursive" />
+        <e p="node_modules\uri-js" t="IncludeRecursive" />
+        <e p="node_modules\webpack" t="IncludeRecursive" />
+        <e p="node_modules\webpack-cli" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="net5.0" t="Include">
               <e p="Calendar.Web.AssemblyInfo.cs" t="Include" />
+              <e p="Calendar.Web.RazorAssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
+        <e p="package-lock.json" t="Include" />
+        <e p="package.json" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="launchSettings.json" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
+        <e p="Templates" t="Include">
+          <e p="Home.html" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="Home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="webpack.config.js" t="Include" />
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="bundle.js" t="Include" />
+            <e p="bundle.js.map" t="Include" />
+          </e>
+        </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>

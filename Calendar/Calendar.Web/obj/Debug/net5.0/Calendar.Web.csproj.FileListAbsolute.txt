@@ -75,3 +75,17 @@ C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\bin\Debug\net5.0\runtimes\
 C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\bin\Debug\net5.0\package-lock.json
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\bin\Debug\net5.0\package.json
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\obj\Debug\net5.0\Calendar.Web.RazorAssemblyInfo.cache
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\obj\Debug\net5.0\Calendar.Web.RazorAssemblyInfo.cs
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\bin\Debug\net5.0\Calendar.Web.Views.dll
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\bin\Debug\net5.0\Calendar.Web.Views.pdb
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\obj\Debug\net5.0\Calendar.Web.TagHelpers.input.cache
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\obj\Debug\net5.0\Calendar.Web.TagHelpers.output.cache
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\obj\Debug\net5.0\Calendar.Web.RazorCoreGenerate.cache
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\obj\Debug\net5.0\Calendar.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\obj\Debug\net5.0\Calendar.Web.Views.pdb
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\bin\Debug\net5.0\Calendar.Web.xml

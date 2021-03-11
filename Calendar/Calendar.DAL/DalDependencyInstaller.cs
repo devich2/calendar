@@ -15,8 +15,7 @@ namespace Calendar.DAL
     {
         public static void Install(IServiceCollection services, IConfiguration configuration)
         {
-            var connectionString = Environment.GetEnvironmentVariable("ConnectionStrings")
-                                   ?? configuration.GetConnectionString("DefaultConnection");
+            var connectionString = configuration.GetConnectionString("DefaultConnection");
             //Configure database context
             services.AddDbContext<CalendarDbContext>(options =>
             {

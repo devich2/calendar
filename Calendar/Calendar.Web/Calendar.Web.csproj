@@ -1,7 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+      <DocumentationFile>C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\Calendar.Web.xml</DocumentationFile>
     </PropertyGroup>
 
     <ItemGroup>
@@ -25,6 +29,10 @@
       <ProjectReference Include="..\Calendar.BLL\Calendar.BLL.csproj" />
       <ProjectReference Include="..\Calendar.Common\Calendar.Common.csproj" />
       <ProjectReference Include="..\Calendar.Models\Calendar.Models.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Client\Images" />
     </ItemGroup>
 
 </Project>
