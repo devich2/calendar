@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IIVwkzoOfa2nkW3kPpQ5qagCDp1c5oe8pLBVhk3b7QgVmaVhv9rVQaEhytti5t/3FcPoH+Cw7E+Gn2A6W0CmvQ==",
+  "dgSpecHash": "fOq0fwWmw1kg3WVS1iHIwQFzeEdTzDt797xwKW5Y8AK0WyUzNEm1Lm/txOhcwcGPn60CjZS1JsnqDjeoUpTh5A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Devid\\Desktop\\calendar\\Calendar\\Calendar.Web\\Calendar.Web.csproj",
   "expectedPackageFiles": [
@@ -44,8 +44,9 @@
     "C:\\Users\\Devid\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\Devid\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
     "C:\\Users\\Devid\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\Devid\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\Devid\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Devid\\.nuget\\packages\\swashbuckle.aspnetcore.newtonsoft\\6.1.0\\swashbuckle.aspnetcore.newtonsoft.6.1.0.nupkg.sha512",
+    "C:\\Users\\Devid\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.0\\swashbuckle.aspnetcore.swagger.6.1.0.nupkg.sha512",
+    "C:\\Users\\Devid\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.0\\swashbuckle.aspnetcore.swaggergen.6.1.0.nupkg.sha512",
     "C:\\Users\\Devid\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
     "C:\\Users\\Devid\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\Devid\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",

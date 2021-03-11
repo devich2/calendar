@@ -15,6 +15,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Newtonsoft.Json.Converters;
 
 namespace Calendar.Web
 {
@@ -25,7 +26,7 @@ namespace Calendar.Web
             Configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
+        private IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
@@ -34,13 +35,14 @@ namespace Calendar.Web
             {
                 options.Conventions.Add(new StatusCodeConvention());
                 options.Filters.Add((new ModelStateValidationFilter()));
-            }).AddNewtonsoftJson();
+            }).AddNewtonsoftJson(options => { options.SerializerSettings.Converters.Add(new StringEnumConverter()); });
             BlDependencyInstaller.Install(services);
             DalDependencyInstaller.Install(services, Configuration);
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo {Title = "Calendar.Web", Version = "v1"});
             });
+            services.AddSwaggerGenNewtonsoftSupport();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -53,7 +55,7 @@ namespace Calendar.Web
                 using (var scope = app.ApplicationServices.CreateScope())
                 {
                     
-                        var context = scope.ServiceProvider.GetService<CalendarDbContext>();
+                    var context = scope.ServiceProvider.GetService<CalendarDbContext>();
                     if (context != null) context.Database.Migrate();
                 }
                 
