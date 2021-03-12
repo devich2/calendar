@@ -27,40 +27,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea49ecfe-7005-4fd8-adf6-bf8f80152d96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Calendar.Web/Client/Sass/home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calendar.Web/Client/Sass/site.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calendar.Web/Client/Scripts/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calendar.Web/Client/Scripts/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calendar.Web/Controllers/HomeController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calendar.Web/Infrastructure/SwaggerConfig/HideDocsFilter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calendar.Web/Templates/Home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calendar.Web/Views/Home/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calendar.Web/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Calendar/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Calendar/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Calendar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Calendar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.BLL/Impl/Task/TaskService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.BLL/Impl/Task/TaskService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.BLL/bin/Debug/net5.0/Calendar.BLL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.BLL/bin/Debug/net5.0/Calendar.BLL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.BLL/bin/Debug/net5.0/Calendar.BLL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.BLL/bin/Debug/net5.0/Calendar.BLL.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calendar.BLL/obj/Debug/net5.0/Calendar.BLL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.BLL/obj/Debug/net5.0/Calendar.BLL.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Common/obj/Debug/net5.0/Calendar.Common.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Common/obj/Debug/net5.0/Calendar.Common.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.DAL/DalDependencyInstaller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.DAL/DalDependencyInstaller.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Models/obj/Debug/net5.0/Calendar.Models.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Models/obj/Debug/net5.0/Calendar.Models.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Web/Calendar.Web.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/Calendar.Web.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Web/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Web/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Web/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.Web.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.Web.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.BLL/obj/Debug/net5.0/Calendar.BLL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.BLL/obj/Debug/net5.0/Calendar.BLL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.BLL/obj/Debug/net5.0/Calendar.BLL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.BLL/obj/Debug/net5.0/Calendar.BLL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/Calendar.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/Client/Sass/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/Client/Sass/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/Client/Scripts/calendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/Client/Scripts/calendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/Controllers/TaskController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/Controllers/TaskController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.BLL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.BLL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.BLL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.BLL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.Web.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.Web.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.Web.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.Web.Views.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.Web.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Calendar.Web.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/ref/Calendar.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/bin/Debug/net5.0/ref/Calendar.Web.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.RazorTargetAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.Views.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Calendar.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/ref/Calendar.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/obj/Debug/net5.0/ref/Calendar.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/wwwroot/css/site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/wwwroot/js/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/wwwroot/js/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar.Web/wwwroot/js/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar.Web/wwwroot/js/bundle.js.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,10 +120,8 @@
         <option value="$PROJECT_DIR$/Calendar.Web/Infrastructure/Extension/StatusCodeConvention.cs" />
         <option value="$PROJECT_DIR$/Calendar.Web/Infrastructure/Extension/ModelStateValidationFilter.cs" />
         <option value="$PROJECT_DIR$/Calendar.BLL/Mappers/TaskProfile.cs" />
-        <option value="$PROJECT_DIR$/Calendar.Web/Controllers/TaskController.cs" />
         <option value="$PROJECT_DIR$/Calendar.DAL/Impl/ImplRepository/Base/GenericKeyRepository.cs" />
         <option value="$PROJECT_DIR$/Calendar.DAL/Abstract/IRepository/Base/IGenericRepository.cs" />
-        <option value="$PROJECT_DIR$/Calendar.BLL/Impl/Task/TaskService.cs" />
         <option value="$PROJECT_DIR$/Calendar.Web/Infrastructure/Formatter/HtmlOutputFormatter.cs" />
         <option value="$PROJECT_DIR$/Calendar.Web/Templates/Home.html" />
         <option value="$PROJECT_DIR$/Calendar.Web/Infrastructure/SwaggerConfig/HideDocsFilter.cs" />
@@ -131,17 +129,19 @@
         <option value="$PROJECT_DIR$/Calendar.Web/Controllers/HtmlController.cs" />
         <option value="$PROJECT_DIR$/Calendar.Web/package.json" />
         <option value="$PROJECT_DIR$/Calendar.Web/Client/Sass/site.scss" />
-        <option value="$PROJECT_DIR$/Calendar.Web/webpack.config.js" />
         <option value="$PROJECT_DIR$/Calendar.Web/Client/Scripts/main.js" />
         <option value="$PROJECT_DIR$/Calendar.Web/wwwroot/html/home.html" />
         <option value="$PROJECT_DIR$/Calendar.Web/Views/Home.cshtml" />
         <option value="$PROJECT_DIR$/Calendar.Web/Pages/Home/Index.cshtml" />
-        <option value="$PROJECT_DIR$/Calendar.Web/Client/Sass/home.scss" />
         <option value="$PROJECT_DIR$/Calendar.Web/Controllers/HomeController.cs" />
-        <option value="$PROJECT_DIR$/Calendar.Web/Views/Home/Index.cshtml" />
         <option value="$PROJECT_DIR$/Calendar.Web/Startup.cs" />
         <option value="$PROJECT_DIR$/Calendar.Web/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/Calendar.DAL/DalDependencyInstaller.cs" />
+        <option value="$PROJECT_DIR$/Calendar.BLL/Impl/Task/TaskService.cs" />
+        <option value="$PROJECT_DIR$/Calendar.Web/webpack.config.js" />
+        <option value="$PROJECT_DIR$/Calendar.Web/Client/Sass/home.scss" />
+        <option value="$PROJECT_DIR$/Calendar.Web/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Calendar.Web/Controllers/TaskController.cs" />
         <option value="$PROJECT_DIR$/Calendar.Web/Client/Scripts/calendar.js" />
       </list>
     </option>
@@ -163,6 +163,7 @@
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\JetBrains Rider 2020.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Calendar.Web">
@@ -224,7 +225,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615459056195</updated>
       <workItem from="1615459075493" duration="18150000" />
-      <workItem from="1615485717695" duration="9769000" />
+      <workItem from="1615485717695" duration="36293000" />
     </task>
     <servers />
   </component>
@@ -249,86 +250,86 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1615505372128">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1615570898654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615505372128" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1615505372128">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615570898654" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1615570898654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615505372128" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1615505372128">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615570898654" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1615570898654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615505372128" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1615505372128">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615570898654" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1615570898654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615505372128" />
-    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1615502682419">
+    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615570898654" />
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682419" />
-    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1615502682419">
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682419" />
-    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1615502682419">
+    <state width="1877" height="375" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682419" />
-    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1615502682419">
+    <state width="1877" height="375" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682419" />
-    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1615502682420">
+    <state width="1877" height="375" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.2.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682420" />
-    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1615502682420">
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.2.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682420" />
-    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1615502682420">
+    <state width="1877" height="375" key="GridCell.Tab.2.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.2.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682420" />
-    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1615502682420">
+    <state width="1877" height="375" key="GridCell.Tab.2.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.2.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682420" />
-    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1615502682420">
+    <state width="1877" height="375" key="GridCell.Tab.2.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.3.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682420" />
-    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1615502682420">
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.3.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682420" />
-    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1615502682420">
+    <state width="1877" height="375" key="GridCell.Tab.3.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.3.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682420" />
-    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1615502682420">
+    <state width="1877" height="375" key="GridCell.Tab.3.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.3.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682420" />
-    <state width="1877" height="375" key="GridCell.Tab.4.bottom" timestamp="1615502682420">
+    <state width="1877" height="375" key="GridCell.Tab.3.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom" timestamp="1615551926239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.4.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682420" />
-    <state width="1877" height="375" key="GridCell.Tab.4.center" timestamp="1615502682420">
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926239" />
+    <state width="1877" height="375" key="GridCell.Tab.4.center" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.4.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682420" />
-    <state width="1877" height="375" key="GridCell.Tab.4.left" timestamp="1615502682420">
+    <state width="1877" height="375" key="GridCell.Tab.4.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.4.left" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.4.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682420" />
-    <state width="1877" height="375" key="GridCell.Tab.4.right" timestamp="1615502682420">
+    <state width="1877" height="375" key="GridCell.Tab.4.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
+    <state width="1877" height="375" key="GridCell.Tab.4.right" timestamp="1615551926237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="375" key="GridCell.Tab.4.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615502682420" />
+    <state width="1877" height="375" key="GridCell.Tab.4.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615551926237" />
     <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1615474618668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -345,26 +346,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615503798137" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1615505349589">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1615570873738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615505349589" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615570873738" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Calendar.BLL/Impl/Task/TaskService.cs</url>
-          <line>37</line>
-          <properties documentPath="C:\Users\Devid\Desktop\calendar\Calendar\Calendar.BLL\Impl\Task\TaskService.cs" initialLine="37">
+          <url>file://$PROJECT_DIR$/Calendar.Web/Controllers/TaskController.cs</url>
+          <line>28</line>
+          <properties documentPath="C:\Users\Devid\Desktop\calendar\Calendar\Calendar.Web\Controllers\TaskController.cs" initialLine="28">
             <startOffsets>
-              <option value="1204" />
+              <option value="765" />
             </startOffsets>
             <endOffsets>
-              <option value="1417" />
+              <option value="835" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

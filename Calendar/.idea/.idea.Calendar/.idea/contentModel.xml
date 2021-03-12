@@ -217,6 +217,7 @@
         <e p="node_modules\moment" t="IncludeRecursive" />
         <e p="node_modules\node-sass" t="IncludeRecursive" />
         <e p="node_modules\postcss-loader" t="IncludeRecursive" />
+        <e p="node_modules\qs" t="IncludeRecursive" />
         <e p="node_modules\rimraf" t="IncludeRecursive" />
         <e p="node_modules\sass-loader" t="IncludeRecursive" />
         <e p="node_modules\schema-utils" t="IncludeRecursive" />
@@ -257,6 +258,7 @@
           </e>
           <e p="js" t="Include">
             <e p="bundle.js" t="Include" />
+            <e p="bundle.js.LICENSE.txt" t="Include" />
             <e p="bundle.js.map" t="Include" />
           </e>
         </e>

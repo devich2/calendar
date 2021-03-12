@@ -6,8 +6,66 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
 </head>
 <body>
-<div class="red">
- devid
+<div>
+    <div class="home-wrapper">
+        <div class="info"></div>
+        <div class="calendar-wrapper">
+            <div class="calendar-header">
+                <div class="current-date-container">
+                </div>
+                <div class="days-container">
+                    <div class="day">
+                        Пн
+                    </div>
+                    <div class="day">
+                        Вт
+                    </div>
+                    <div class="day">
+                        Ср
+                    </div>
+                    <div class="day">
+                        Чт
+                    </div>
+                    <div class="day">
+                        Пт
+                    </div>
+                    <div class="day">
+                        Сб
+                    </div>
+                    <div class="day">
+                        Вс
+                    </div>
+                </div>
+            </div>
+            <div class="calendar-content">
+                @for (int i = 0; i < 6; i++)
+                {
+                    <div class="row">
+                        @for (int j = 0; j < 7; j++)
+                        {
+                            <div class="cell">
+                                <div class="number-day">20</div>
+                                <div class="task-count"></div></div>
+                        }
+                    </div>
+                }
+            </div>
+            <div class="calendar-footer">
+                <div class="prev-month">
+                    Попередній
+                </div>
+                <div class="next-month">
+                    Наступний
+                </div>
+            </div>
+        </div>
+        <div class="task-list-wrapper">
+
+        </div>
+        <div class="add-button" style="display: none">
+            Додати
+        </div>
+    </div>
 </div>
 <script src="~/js/bundle.js" asp-append-version="true"></script>
 </body>

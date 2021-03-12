@@ -37,7 +37,7 @@ namespace Calendar.BLL.Impl.Task
         {
             List<ToDoTask> taskEntitiesList =
                 (await _unitOfWork.ToDoTasks.GetAllAsync())  //To do, fix bug with GetByAsync
-                .Where(x => x.DueDate <= endDate && x.DueDate >= startDate).ToList();
+                .Where(x => x.DueDate.Date <= endDate.Date && x.DueDate.Date >= startDate.Date).ToList();
 
             if (taskEntitiesList.Count == 0)
             {

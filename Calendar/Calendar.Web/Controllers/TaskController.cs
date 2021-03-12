@@ -29,7 +29,7 @@ namespace Calendar.Web.Controllers
             return await _taskService.GetTaskListBetweenDates(startDate, endDate);
         }
         [HttpPost]
-        public async Task<DataResult<TaskAddResponse>> Create(TaskBaseModel model)
+        public async Task<DataResult<TaskAddResponse>> Create(TaskBlModel model)
         {
             return await _taskService.ProcessTaskCreate(model);
         }
